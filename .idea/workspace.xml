@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3492bb98-57bd-4678-bda3-cebb096725b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DL-SMs-2025.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/CNN_ViT_AE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/Fitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/KAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/MultiheadAttention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/VAE/pytorch_VAE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/VAE/pytorch_VAE_Decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/VAE/pytorch_VAE_Encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/VisionTransformer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/decode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/efficient_kan/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/coding/efficient_kan/kan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/dataset/dataset.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/dataset/image.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/dataset/no_ground-based_dataset.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/newMoudle/CNN-ViT-AE+KAN.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/newMoudle/CNN-ViT-AE+MLP.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/newMoudle/CNN_ViT_lea0.00002.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/newMoudle/CNN_ViT_lea0.001.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/newMoudle/VAE+MLP.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/newMoudle/VAE/vae_simple0.95" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/newMoudle/VAE/vae_simple0.97" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/newMoudle/VAE/vae_simple0.98" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/newMoudle/no_ground-based_CNN-ViT-AE+KAN.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="30asJVTtgjjin2JkYQv48Dsk5vT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/Desktop/github-dlSMs/DL-SMs-2025&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\github-dlSMs\DL-SMs-2025" />
+      <recent name="C:\Users\lenovo\Desktop\github-dlSMs\DL-SMs-2025\main\newMoudle" />
+      <recent name="C:\Users\lenovo\Desktop\github-dlSMs\DL-SMs-2025\main\coding" />
+      <recent name="C:\Users\lenovo\Desktop\github-dlSMs\DL-SMs-2025\main\dataset" />
+      <recent name="C:\Users\lenovo\Desktop\github-dlSMs\DL-SMs-2025\main\coding\VAE" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\github-dlSMs\DL-SMs-2025\main\newMoudle\VAE" />
+      <recent name="C:\Users\lenovo\Desktop\github-dlSMs\DL-SMs-2025\main\dataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.CNN_ViT_AE">
+    <configuration name="CNN_ViT_AE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DL-SMs-2025" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/coding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/coding/CNN_ViT_AE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytorch_VAE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DL-SMs-2025" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/coding/VAE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/coding/VAE/pytorch_VAE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CNN_ViT_AE" />
+        <item itemvalue="Python.pytorch_VAE" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3492bb98-57bd-4678-bda3-cebb096725b5" name="Changes" comment="" />
+      <created>1753876946745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753876946745</updated>
+    </task>
+    <servers />
+  </component>
+</project>
