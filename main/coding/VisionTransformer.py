@@ -54,11 +54,7 @@ class TransformerBlock(nn.Module):
         return x
 
     def get_attention(self):
-<<<<<<< HEAD
         return self.attention.get_attention()
-=======
-        return self.attention.get_attention()  # 返回当前块的注意力权重
->>>>>>> 711b3a78cb0c68e5034894d8e2e704545a646e15
 
 class VisionTransformer(nn.Module):
     def __init__(self, img_size=50, patch_size=10, num_classes=64, embed_dim=48, num_heads=4, ff_dim=256, num_layers=3, dropout_rate=0.):

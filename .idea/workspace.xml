@@ -5,39 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3492bb98-57bd-4678-bda3-cebb096725b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DL-SMs-2025.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/CNN_ViT_AE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/Fitter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/KAN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/MultiheadAttention.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/VAE/pytorch_VAE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/VAE/pytorch_VAE_Decoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/VAE/pytorch_VAE_Encoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/VisionTransformer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/decode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/efficient_kan/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/coding/efficient_kan/kan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/dataset/dataset.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/dataset/image.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/dataset/no_ground-based_dataset.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/newMoudle/CNN-ViT-AE+KAN.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/newMoudle/CNN-ViT-AE+MLP.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/newMoudle/CNN_ViT_lea0.00002.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/newMoudle/CNN_ViT_lea0.001.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/newMoudle/VAE+MLP.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/newMoudle/VAE/vae_simple0.95" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/newMoudle/VAE/vae_simple0.97" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/newMoudle/VAE/vae_simple0.98" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/newMoudle/no_ground-based_CNN-ViT-AE+KAN.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/coding/VisionTransformer.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/coding/VisionTransformer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
