@@ -135,6 +135,7 @@ def split_data(group1, group2):
 def training_model(dataset_path,latent_vectors_name,savemodel_name):
     tr_lvs, va_lvs, te_lvs, tr_sps, va_sps, te_sps, tr_bgs, va_bgs, te_bgs, lvs_max, lvs_min, sps_max, sps_min, bgs_max, bgs_min = load_data(
         dataset_path,latent_vectors_name)
+
     #lvs latent_vectors
     # sps sms_parameters
     # bgs bandgaps
@@ -143,6 +144,7 @@ def training_model(dataset_path,latent_vectors_name,savemodel_name):
     # training_model()
     # ..\\dataset\\dataset.xlsx         Integration of bandgap data for models with ground-based components
     # ..\\dataset\\no_ground-based_dataset.xlsx  Integration of bandgap data for models without ground-based components
+
 
     # Convert data to PyTorch Tensors
     tr_lvs = torch.FloatTensor(tr_lvs)

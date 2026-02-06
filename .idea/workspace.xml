@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3492bb98-57bd-4678-bda3-cebb096725b5" name="Changes" comment="">
+
       <change afterPath="$PROJECT_DIR$/.idea/DL-SMs-2025.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -38,6 +39,7 @@
       <change afterPath="$PROJECT_DIR$/main/newMoudle/VAE/vae_simple0.98" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main/newMoudle/no_ground-based_CNN-ViT-AE+KAN.pth" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +86,7 @@
       <recent name="C:\Users\lenovo\Desktop\github-dlSMs\DL-SMs-2025\main\dataset" />
     </key>
   </component>
+
   <component name="RunManager" selected="Python.CNN_ViT_AE">
     <configuration name="CNN_ViT_AE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DL-SMs-2025" />
@@ -106,6 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+
     <configuration name="pytorch_VAE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DL-SMs-2025" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +133,9 @@
     </configuration>
     <recent_temporary>
       <list>
+
         <item itemvalue="Python.CNN_ViT_AE" />
+
         <item itemvalue="Python.pytorch_VAE" />
       </list>
     </recent_temporary>

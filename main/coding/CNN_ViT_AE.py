@@ -136,9 +136,11 @@ def load_data(filename):
     m, n1 = sheet1.nrows, sheet1.ncols
     images = np.zeros((m, n1))
 
+
     # Convert data to 0 and 1
     for i in range(m):
         for j in range(n1):
+
             images[i, j] = 1 if sheet1.cell(i, j).value > 0.5 else 0
 
     # Here we divide the data into two groups: 0-249 and 249-end
@@ -167,13 +169,17 @@ def split_data(data):
 
 def training_model():
     # Load data
+
     tr_images, va_images, te_images = load_data("..\\dataset\\image.xlsx")
+
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # Prepare training data
+
     train_inputs = torch.tensor(tr_images, dtype=torch.float32).to(device)
     train_targets = torch.tensor(tr_images, dtype=torch.float32).reshape(-1, 1, 50, 50).to(device)
+
 
     # Create TensorDataset and DataLoader for batching
     train_dataset = TensorDataset(train_inputs, train_targets)
@@ -185,6 +191,7 @@ def training_model():
 
     te_inputs = torch.tensor(te_images, dtype=torch.float32).to(device)
     te_targets = torch.tensor(te_images, dtype=torch.float32).reshape(-1, 1, 50, 50).to(device)
+
 
     # Define model
     model = MultiScaleConvViT_AE(4).to(device)
