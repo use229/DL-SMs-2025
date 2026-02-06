@@ -1,0 +1,8 @@
+matplotlib==3.5.3
+numpy==1.19.5
+numpy==1.21.5
+tensorflow==1.13.1
+tensorflow_gpu==1.13.1
+torch==1.13.1
+torchvision==0.14.1
+xlrd==1.0.0
